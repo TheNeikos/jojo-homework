@@ -98,3 +98,17 @@ img {
     justify-content: center;
     flex-direction: column;
 }
+
+.footer {
+    margin: 1rem;
+}
+
+.footer a {
+    background: #bc13fe;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    text-decoration: none;
+    box-shadow: inset 0 -0.2rem 0.1rem rgba(0, 0, 0, 0.2);
+    border: 1px solid #aaa;
+}
